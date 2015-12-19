@@ -13,8 +13,17 @@
     "docs",
     "js/tests"
   ],
-  "dependencies": { },
   "devDependencies": {
     "bootstrap": ">= 3.1.0"
-  }
+  },
+  "version": "3.2.0-beta.1",
+  "homepage": "https://github.com/dataworkstr/bootstrap",
+  "authors": [
+    "oytunyuksel <oytun.yuksel@yellow.com.tr>"
+  ],
+  "keywords": [
+    "jasny",
+    "bootstrap"
+  ],
+  "license": "MIT"
 }
